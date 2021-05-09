@@ -1,0 +1,182 @@
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+    background-color:black;
+    font-weight:600;
+    text-align:center !important;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-dark {
+    background-color: #C3073F;
+}
+
+.head{
+	position: absolute;
+	top: 35px;
+	right: 50px;
+}
+.head .tile{
+	display: inline-block;
+	height: 30px;
+	width: 50px;
+	margin-left: 5px;
+	transition: all .3s ease-in;
+	-webkit-transition: all .3s ease-in;
+}
+.head .tile.socialmedia{
+	color: #0b253e;
+	font-size: 30px;
+	text-align: center;
+	line-height: 50px;
+	position: relative;
+	top: -34px;
+}
+
+navbar .navbar-nav .nav-link:hover {
+    color: #2c02172f;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .navbar .navbar-nav .nav-link {
+      padding: 1em 0.7em;
+    }
+    .navbar {
+      padding: 0;
+    }
+    .navbar .navbar-brand {
+      padding: 0 0.7em;
+    }
+  }
+  .navbar .navbar-nav .nav-link {
+    position: relative;
+  }
+  .navbar .navbar-nav .nav-link::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color:#3AAFA9;
+    color: transparent;
+    width: 0%;
+    content: '';
+    height: 3px;
+    transition: all 0.5s;
+  }
+  .navbar .navbar-nav .nav-link:hover::after {
+    width: 100%;
+  }
+
+  .jumb{
+    padding:0px 0px 0px 0px;
+    margin:0px auto;
+  }
+
+  .jumb p{
+    color: #F76C6C;
+
+  }
+
+  .jumb .first{
+    color: black;
+    text-align:justify;
+    
+  }
+.carousel {
+    background:#0c0c0c;
+}
+
+.carousel-item {
+  height: 520px;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins|Ubuntu&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.box {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.our-services {
+    margin-top: 75px;
+    padding-bottom: 30px;
+    padding: 0 60px;
+    min-height: 198px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: all .4s ease-in-out;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17);
+    color: rgb(12, 12, 12);
+}
+
+.our-services .icon {
+    margin-bottom: -21px;
+    transform: translateY(-50%);
+   
+}
+
+.our-services:hover h4,
+.our-services:hover p {
+    color: #fff
+}
+
+.speedup:hover {
+    box-shadow: 0 0 25px 0 rgba(20, 27, 201, .05);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #fb0054 0%, #f55b2a 100%)
+}
+
+
+
+.backups:hover {
+    box-shadow: 0 0 25px 0 rgba(20, 27, 201, .05);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #fc6a0e 0%, #fdb642 100%)
+}
+
+.ssl:hover {
+    box-shadow: 0 0 25px 0 rgba(20, 27, 201, .05);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #b580ff 0%, #2b28ee 100%)
+}
+
+.footer{
+  background-color: #C3073F;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+	color: #0b253e;
+  position: absolute;
+  width: 98%;
+  clear: both;
+  
+}
+
+
+.footer h5{
+  color: black;
+  font-size: 20px;
+  
+}
+
