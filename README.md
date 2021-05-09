@@ -20,4 +20,4 @@ TECH STACK:
 	DATABASE: MySQL
 
 FLOW:
-	Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Users > Transfer History
+Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Users > Transfer History
