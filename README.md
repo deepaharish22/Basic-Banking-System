@@ -4,7 +4,7 @@ BASIC BANKING SYSTEM:
 
 DESCRIPTION:
 
-    A Web Application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+    A Web Application used to tranfer virtual money between multiple users and also records the banking transactions/ activities.
     This project helps us to understand the basic working of Bank accounts. Some of the functionalities implemented are
 
     1.View all Customers
