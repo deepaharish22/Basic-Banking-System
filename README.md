@@ -1,11 +1,6 @@
 BASIC BANKING SYSTEM:
-<<<<<<< HEAD
 
     This project has been developed for my internship programme at The Sparks Foundation.
-=======
-   
-   This project has been developed for my internship programme at The Sparks Foundation.
->>>>>>> 4f91f5bcea3a6e6ed8875125d9787ed396b658ef
 
 DESCRIPTION:
 
