@@ -1,15 +1,16 @@
-BASIC BANKING SYSTEM
+BASIC BANKING SYSTEM:
     This project has been developed for my internship programme at The Sparks Foundation.
 
 DESCRIPTION:
-A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
-This project helps us to understand the basic working of Bank accounts. Some of the functionalities implemented are
+    A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+    This project helps us to understand the basic working of Bank accounts. Some of the functionalities implemented are
 
 1.View all Customers
 2.Transactions between two accounts
 3.Fetching of the transaction history
 
 TECH STACK:
+
 FRONT-END: HTML, CSS, Javascript & Bootstrap
 BACK-END: PHP
 DATABASE: MySQL
