@@ -1,4 +1,5 @@
-BASIC BANKING SYSTEM
+BASIC BANKING SYSTEM:
+
     This project has been developed for my internship programme at The Sparks Foundation.
 
 DESCRIPTION:
