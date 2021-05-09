@@ -13,11 +13,11 @@ DESCRIPTION:
 
 TECH STACK:
 
-		FRONT-END: HTML, CSS, Javascript & Bootstrap
+	FRONT-END: HTML, CSS, Javascript & Bootstrap
 
-		BACK-END: PHP
+	BACK-END: PHP
 
-		DATABASE: MySQL
+	DATABASE: MySQL
 
 FLOW:
-		Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Users > Transfer History
+	Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Users > Transfer History
