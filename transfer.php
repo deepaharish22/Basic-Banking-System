@@ -257,7 +257,7 @@ if(isset($_POST['submit']))
        }
         $newbalance= 0;
         $amount =0;
-        }
+      }
     
 }
 ?>
